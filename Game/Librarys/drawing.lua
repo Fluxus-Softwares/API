@@ -649,6 +649,7 @@ end
 
 task.spawn(function()
 	local _game = game:GetService("CoreGui").Parent
+	end)
 function DrawingLib.createScreenGui()
 	local screenGuiObj = ({
 		IgnoreGuiInset = true,
